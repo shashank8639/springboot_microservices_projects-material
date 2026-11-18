@@ -22,7 +22,7 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 8. [Bean Lifecycle and Configuration](springcourse_material/8_BeanLifecycle_%40Bean%40ConfProps.pdf)
 
-9. [Spring Interview Questions and Answers](springcourse_material/part1_spring_interview_Q%26Ans.pdf)
+## [Part 1 Spring Interview Questions and Answers](springcourse_material/part1_spring_interview_Q%26Ans.pdf)
 
-10. [Spring JDBC Interview Questions](springcourse_material/spring_jdbc_Q%26A.pdf)
+## [Part 2 Spring JDBC Interview Questions](springcourse_material/spring_jdbc_Q%26A.pdf)
 
