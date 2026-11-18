@@ -6,7 +6,7 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 ### Spring Framework Notes
 
-1. [Core Java vs Advanced Java vs Frameworks](springcourse_material/1_core%20vs%20adv%20vs%20java%20frmwrks.pdf)
+1. [Core Java vs Advanced Java vs Frameworks](springcourse_material/1_core_vs_adv_vs_java_frmwrks.pdf)
 
 2. [Layered Architecture](springcourse_material/2_Layered%20Architecture%20%E2%80%93%20Part%202.pdf)
 
