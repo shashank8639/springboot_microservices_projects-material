@@ -12,11 +12,11 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 3. [Spring Framework Introduction](springcourse_material/3_Spring_Framework__Introduction_&_Architecture.pdf)
 
-4. [Spring Core Notes](springcourse_material/4_Spring_Core__Notes.pdf)
+4. [Spring Core Introduction Notes](springcourse_material/4_Spring_Core__Notes.pdf)
 
-5. [Spring JDBC Complete Notes](springcourse_material/5_Spring_JDBC__Complete_Notes_with_CRUD_Operations.pdf)
+5. [Spring JDBC CRUD OPERATIONS](springcourse_material/5_Spring_JDBC__Complete_Notes_with_CRUD_Operations.pdf)
 
-6. [Spring JDBC Notes](springcourse_material/6_springjdbc.pdf)
+6. [Spring JDBC Hikkari,DataSource Notes](springcourse_material/6_springjdbc.pdf)
 
 7. [Primary and Qualifier](springcourse_material/7_primary%26Qualifier_spring.pdf)
 
