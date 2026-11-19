@@ -28,8 +28,11 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 9. [Bean Lifecycle Alternatives ](springcourse_material/9_lifecycle_alternatives.pdf)  
 
-10. [SpringBootAppRunners ](springcourse_material/10_SpringBootAppRunners.pdf)  
+### Packaging SpringBoot App as Jar 
+10. [<u><b>SpringBoot Packaging as Jar<b> </u>](springcourse_material/10_package_spboot_prj_jar.pdf)  
 
-11. [SpringMVC flow ](springcourse_material/11_Spring_MVC_FLOW_Notes.pdf)
+11. [SpringBootAppRunners ](springcourse_material/11_SpringBootAppRunners.pdf)  
+
+12. [SpringMVC flow ](springcourse_material/12_Spring_MVC_FLOW_Notes.pdf)
 
 
