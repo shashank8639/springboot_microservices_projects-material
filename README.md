@@ -37,3 +37,8 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 13. [SpringBoot Exporting .env props flow ](springcourse_material/13_SpBoot_Environment_Variables.pdf)
 
+### Friday
+14. [SpringBoot Jdbc to SpringDataJPA](springcourse_material/14_JDBC_to_DataJPA_Notes.pdf)
+
+### Saturday Notes
+15. [SpringBoot About SpringDataJPA ](springcourse_material/15_Sprint_Data_JPA_Notes.pdf)
