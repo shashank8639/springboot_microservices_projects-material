@@ -41,4 +41,4 @@ Click the links below to view or download the Spring Framework PDF notes.
 14. [SpringBoot Jdbc to SpringDataJPA](springcourse_material/14_JDBC_to_DataJPA_Notes.pdf)
 
 ### Saturday Notes
-15. [SpringBoot About SpringDataJPA ](springcourse_material/15_Sprint_Data_JPA_Notes.pdf)
+15. [SpringBoot About SpringDataJPA ](springcourse_material/15_Spring_Data_JPA_Notes.pdf)
