@@ -35,4 +35,5 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 12. [SpringMVC flow ](springcourse_material/12_Spring_MVC_FLOW_Notes.pdf)
 
+13. [SpringBoot Exporting .env props flow ](springcourse_material/13_SpBoot_Environment_Variables.pdf)
 
