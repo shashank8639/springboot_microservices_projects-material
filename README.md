@@ -42,3 +42,5 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 ### Saturday Notes
 15. [SpringBoot About SpringDataJPA ](springcourse_material/15_Spring_Data_JPA_Notes.pdf)
+
+16. [<u><b>SpringBoot DataJPA Annotations,Mapping Generators</b> </u>](springcourse_material/16_DataJPA_Mapping_Generators_Part1.pdf)
