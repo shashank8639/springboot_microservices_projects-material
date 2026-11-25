@@ -29,7 +29,7 @@ Click the links below to view or download the Spring Framework PDF notes.
 9. [Bean Lifecycle Alternatives ](springcourse_material/9_lifecycle_alternatives.pdf)  
 
 ### Packaging SpringBoot App as Jar 
-10. [<u><b>SpringBoot Packaging as Jar<b> </u>](springcourse_material/10_package_spboot_prj_jar.pdf)  
+10. [<u><b>SpringBoot Packaging as Jar</b> </u>](springcourse_material/10_package_spboot_prj_jar.pdf)  
 
 11. [SpringBootAppRunners ](springcourse_material/11_SpringBootAppRunners.pdf)  
 
@@ -44,3 +44,6 @@ Click the links below to view or download the Spring Framework PDF notes.
 15. [SpringBoot About SpringDataJPA ](springcourse_material/15_Spring_Data_JPA_Notes.pdf)
 
 16. [<u><b>SpringBoot DataJPA Annotations,Mapping Generators</b> </u>](springcourse_material/16_DataJPA_Mapping_Generators_Part1.pdf)
+
+### 25 Nov Wed 
+17. [SpringBoot DataJPA Query Ops](springcourse_material/17_DataJPA_Query_Operations.pdf)
