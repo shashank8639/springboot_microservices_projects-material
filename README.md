@@ -47,3 +47,9 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 ### 25 Nov Wed 
 17. [SpringBoot DataJPA Query Ops](springcourse_material/17_DataJPA_Query_Operations.pdf)
+### Why JPQL preferred instead of native SQL
+[DataJPA JPQL vs Native SQL](springcourse_material/JPQL_and_Native_SQL_difference.pdf)
+
+## [Part 3 Spring Data JPA Interview Questions](springcourse_material/Spring_Data_JPA_Interview_Questions.pdf)  
+
+18. [DataJPA Pagination & Sorting ](springcourse_material/18_Product_Catalogue_Pagination_Sorting_Notes.pdf)
