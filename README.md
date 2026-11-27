@@ -52,7 +52,7 @@ Click the links below to view or download the Spring Framework PDF notes.
 
 
 ### 27 Nov Fri 
-[Pagination & Sorting Demo execution file DOWNLOAD](springcourse_material/product-catalogue.zip)
+[Pagination & Sorting Demo execution file DOWNLOAD](springcourse_material/product-catalogue.zip?raw=true)
 
 18. [DataJPA Pagination & Sorting ](springcourse_material/18_DataJPA_Pagination_and_Sorting.pdf)
 
