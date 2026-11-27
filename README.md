@@ -50,8 +50,9 @@ Click the links below to view or download the Spring Framework PDF notes.
 ### Why JPQL preferred instead of native SQL
 [DataJPA JPQL vs Native SQL](springcourse_material/JPQL_and_Native_SQL_difference.pdf)
 
+
 ### 27 Nov Fri 
-[Pagination & Sorting Demo execution file DOWNLOAD](springcourse_material/product-catalogue.html?raw=true)
+[Pagination & Sorting Demo execution file DOWNLOAD](https://github.com/shashank8639/springboot_microservices_projects-material/raw/main/springcourse_material/product-catalogue.html)
 
 18. [DataJPA Pagination & Sorting ](springcourse_material/18_DataJPA_Pagination_and_Sorting.pdf)
 
